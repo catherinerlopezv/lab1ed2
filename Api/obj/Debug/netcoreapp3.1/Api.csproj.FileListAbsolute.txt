@@ -1,0 +1,107 @@
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/Api.exe
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/Api.deps.json
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.json
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.dev.json
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/Api.dll
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/Api.pdb
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.csproj.AssemblyReference.cache
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfoInputs.cache
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfo.cs
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.csproj.CoreCompileInputs.cache
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.Manifest.cache
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.xml
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/Api.styles.css
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.RazorTargetAssemblyInfo.cache
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.dll
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.pdb
+C:/Users/Cathy/source/repos/Api/obj/Debug/netcoreapp3.1/Api.genruntimeconfig.cache
+C:/Users/Cathy/source/repos/Api/bin/Debug/netcoreapp3.1/test.json
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/appsettings.json
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/test.json
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.deps.json
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.json
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.dev.json
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.dll
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.pdb
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.csproj.AssemblyReference.cache
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.GeneratedMSBuildEditorConfig.editorconfig
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfoInputs.cache
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfo.cs
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.csproj.CoreCompileInputs.cache
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.MvcApplicationPartsAssemblyInfo.cache
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.Manifest.cache
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.xml
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/Api.styles.css
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.RazorTargetAssemblyInfo.cache
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.dll
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.pdb
+/media/billy/ecc478ee-52f3-4e72-b9ec-c97a7b12357e/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.genruntimeconfig.cache
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.csproj.AssemblyReference.cache
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfoInputs.cache
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfo.cs
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.csproj.CoreCompileInputs.cache
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.MvcApplicationPartsAssemblyInfo.cache
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.dll
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.pdb
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/appsettings.json
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/test.json
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.deps.json
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.json
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.dev.json
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.dll
+/home/billy/Documents/4sons/Api/bin/Debug/netcoreapp3.1/Api.pdb
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.Manifest.cache
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.xml
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/Api.styles.css
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.RazorTargetAssemblyInfo.cache
+/home/billy/Documents/4sons/Api/obj/Debug/netcoreapp3.1/Api.genruntimeconfig.cache
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\appsettings.json
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\test.json
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\Api.exe
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\Api.dll
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\bin\Debug\netcoreapp3.1\Api.pdb
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.dll
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.pdb
+e:\Cathy\Downloads\Nueva carpeta (3)\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\test.json
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\Api.exe
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\Api.dll
+E:\Cathy\Downloads\Lab1 terminado\Api\bin\Debug\netcoreapp3.1\Api.pdb
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.dll
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.pdb
+E:\Cathy\Downloads\Lab1 terminado\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
